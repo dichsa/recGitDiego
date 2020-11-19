@@ -1,14 +1,14 @@
 ---
 name: bugDiegorec
-about: Create a report to help us improve
+about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-El error se produce cuando ..........
+** Describe the bug ** 
+El error se produce cuando .........
 
-**Expected behavior**
-El comportamiento debería ser...........
+** Expected behaviour ** 
+El comportamiento debería de ser ........
